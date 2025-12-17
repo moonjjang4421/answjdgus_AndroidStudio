@@ -42,12 +42,13 @@ Undo / Redo
 
 🎨 색상 · 크기 · 투명도 조절
 
-
 색상 팔레트 선택
 
 슬라이더로 선 두께 조절
 
 슬라이더로 투명도 조절
+<img width="358" height="723" alt="image" src="https://github.com/user-attachments/assets/f587161a-1a74-4c30-91e7-553ff925760a" />
+
 
 🔍 줌 인 / 줌 아웃 & 캔버스 이동
 
@@ -67,7 +68,7 @@ Undo / Redo
 레이어 표시 / 숨김
 
 ↩️ Undo / Redo
-<img src="screenshots/undo_redo.png" width="300"/>
+<img width="1033" height="716" alt="image" src="https://github.com/user-attachments/assets/5ada0ba8-e6ec-4dfe-aaf3-8efc9469ca6a" />
 
 드로잉 작업 실행 취소
 
@@ -76,7 +77,7 @@ Undo / Redo
 스트로크 단위로 관리
 
 ⏱️ 타임랩스 재생
-<img src="screenshots/timelapse.png" width="300"/>
+<img width="358" height="756" alt="image" src="https://github.com/user-attachments/assets/1dbb377b-88fb-41e1-b402-4604ff04ab7e" />
 
 그림 그리는 과정을 순서대로 재생
 
@@ -85,7 +86,6 @@ Undo / Redo
 속도 조절 가능
 
 💾 저장 · 불러오기 · 내보내기
-<img src="screenshots/save_export.png" width="300"/>
 
 프로젝트 저장 / 불러오기 (JSON)
 
